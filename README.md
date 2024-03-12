@@ -12,7 +12,7 @@
 
 ![home page before login](https://github.com/juliet-karpah/reddit-clone/blob/main/my-app/public/homeNotLoggedIn.png)
 
-![home page after login](https://github.com/juliet-karpah/reddit-clone/blob/main/my-app/public/homeloggedIn.png)
+![home page after login](https://github.com/juliet-karpah/reddit-clone/blob/main/my-app/public/homeloggedin.png)
 
 ![form validation](https://github.com/juliet-karpah/reddit-clone/blob/main/my-app/public/formValidation.png)
 
